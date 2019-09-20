@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://teste.com/index.html</loc>
+    <lastmod>2019-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://teste.com/images/personagem-crop-u220.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://teste.com/gallery.html</loc>
+    <lastmod>2019-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://teste.com/images/road-crop-u240.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teste.com/images/cactus-crop-u244.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teste.com/images/trees-crop-u242.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teste.com/images/road-crop-u254.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teste.com/images/cactus-crop-u252.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teste.com/images/trees-crop-u250.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://teste.com/contact.html</loc>
+    <lastmod>2019-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

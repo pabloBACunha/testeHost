@@ -1,0 +1,59 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="teste.com" resolutions="1x" timestamp="1569019165453">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-mestre.css" crc="3763828767" ref="index:contact:gallery"/>
+    <file name="index.css" crc="3860078207" ref="index"/>
+    <file name="contact.css" crc="3822995121" ref="contact"/>
+    <file name="gallery.css" crc="328303940" ref="gallery"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:gallery:contact"/>
+    <file name="museutils.js" crc="3803043152" ref="index:gallery:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:gallery:contact"/>
+    <file name="museconfig.js" crc="380897831" ref="index:gallery:contact"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:gallery:contact"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:gallery:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:gallery:contact"/>
+    <file name="require.js" crc="4157109226" ref="index:gallery:contact"/>
+    <file name="webpro.js" crc="242022427" ref="gallery"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="gallery"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="gallery"/>
+    <file name="touchswipe.js" crc="4066113679" ref="gallery"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:gallery:contact"/>
+    <file name="u109.png" crc="4175610217" ref="index:gallery:contact"/>
+    <file name="u109-a.png" crc="237510558" ref="index:gallery:contact"/>
+    <file name="u163.png" crc="4825645" ref="index:gallery:contact"/>
+    <file name="u163-a.png" crc="4156195033" ref="index:gallery:contact"/>
+    <file name="u196.png" crc="4015481346" ref="index:gallery:contact"/>
+    <file name="u196-a.png" crc="376003152" ref="index:gallery:contact"/>
+    <file name="u214-4.png" crc="3946502325" ref="index"/>
+    <file name="personagem-crop-u220.jpg" crc="279655260" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="road-crop-u240.jpg" crc="4062108343" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cactus-crop-u244.jpg" crc="123004207" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="trees-crop-u242.jpg" crc="99606698" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="road-crop-u254.jpg" crc="4170466205" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cactus-crop-u252.jpg" crc="4219103145" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="trees-crop-u250.jpg" crc="4126975706" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="gallery"/>
+    <file name="u331-4.png" crc="524483094" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="407354581" seo="true" mt="1569018417714" redirect="true"/>
+  <file name="gallery.html" crc="3830267913" seo="true" mt="1569019099842" redirect="true"/>
+  <file name="contact.html" crc="332807793" seo="true" mt="1569018732282" redirect="true"/>
+</manifest>
